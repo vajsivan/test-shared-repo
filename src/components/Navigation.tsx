@@ -35,3 +35,5 @@ function Navigation() {
     </Box>
   );
 }
+
+export default Navigation
